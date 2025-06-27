@@ -6,7 +6,7 @@ char* convertToString(char* morse);
 
 int main(){
 
-    // write what to convert in the given and uncomment:
+    // write what to convert in the given commas and uncomment:
     //convertToMorseCode(  ""  );
     //convertToString(  ""  );
 
