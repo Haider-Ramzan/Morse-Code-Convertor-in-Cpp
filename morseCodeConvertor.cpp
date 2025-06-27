@@ -7,8 +7,8 @@ char* convertToString(char* morse);
 int main(){
 
     // write what to convert in the given and uncomment:
-    //convertToMorseCode();
-    //convertToString();
+    //convertToMorseCode(  ""  );
+    //convertToString(  ""  );
 
 }
 
